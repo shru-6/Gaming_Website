@@ -34,7 +34,7 @@ body.dark {
     position: fixed;
     background-color: #850000;
     height: 50px;
-    width:100vw;
+    width:100%;
     display: flex;
     justify-content: space-between;
 }
